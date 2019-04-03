@@ -51,4 +51,5 @@ Maria
 I've used IntelliJ Idea for completing this project. To run it
 - Clone the repository
 - Import the project into IntelliJ Idea
-- Click the run button
+- Go to \UpGrad-Internship-Challenge-master\UpGrad-Internship-Challenge-master\src\com\amitkr
+- Then run the file Main.java
